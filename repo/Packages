@@ -1,0 +1,15 @@
+Package: com.dwna.newawardsforoldreddit
+Section: Tweaks
+Maintainer: dwna <down.a.well@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.0
+Depends: mobilesubstrate
+Filename: debs/com.dwna.newawardsforoldreddit_1.0.deb
+Size: 45592
+MD5Sum: 7CC83C2BBDCC1470FB329B5534E4DAB3
+SHA1: 66D42B174B889BF2983C3822497042B55AF71962
+SHA256: 29B7EAE61E8C05A460856C375E1418BEEF17315B48F02592374B038C334AE99B
+Description: Brings silver and platinum to Reddit 3.13.1.
+Name: NewAwardsForOldReddit
+Author: dwna <down.a.well@gmail.com>
+

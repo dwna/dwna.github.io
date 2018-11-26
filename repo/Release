@@ -1,0 +1,8 @@
+Origin: Dwna's Repo	
+Label: Dwna's repo
+Suite: stable
+Version: 1.0
+Codename: dwna
+Architectures: iphoneos-arm
+Components: main
+Description: Dwna's Cydia Repository
